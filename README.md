@@ -1,15 +1,6 @@
+![s76cc-s.png](s76cc-s.png) 
 
-<table>
-	<tr>
-		<td>
-			![s76cc-s.png](s76cc-s.png) 
-		</td>
-		<td>
-			# System76 Charge Control (s76cc)
-		</td>
-	</tr>
-</table>
----
+# System76 Charge Control (s76cc)
 maintained by: @hkdb
 
 ![ss](ss.png)
