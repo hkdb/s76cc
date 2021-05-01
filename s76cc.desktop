@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.1.0
+Name=Charge Control
+Comment=Charge Control for S76 Laptops
+GenericName=s76cc
+Exec=/home/hkdb/.local/bin/s76cc
+Path=/home/hkdb/.local/bin/
+Terminal=false
+Type=Application
+Icon=/home/hkdb/.local/share/icons/3dfosi/s76cc.png
+StartupNotify=true
+Categories=Utility;
